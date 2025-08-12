@@ -1,7 +1,7 @@
 
 # Deloitte Data Analytics (Forage)
 
-This repo documents my work for the **Deloitte Data Analytics Virtual Internship** (Forage). I completed **two tasks** focused on telemetry analysis (Tableau) and pay-equity classification (Excel). Each section includes background context, the specific question or goal, my interpretation, what I built, and the files involved.
+This repo documents my work for the **Deloitte Data Analytics Virtual Internship** (Forage). I completed **two tasks** focused on telemetry analysis (Tableau) and pay-equity classification (Excel). Each section includes background context, specific goal/my interpretation, what I did, and the result.
 
 ----------
 
