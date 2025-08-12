@@ -55,6 +55,7 @@ Transform raw telemetry into clear insights using Tableau, highlighting the fact
     
 
 **Screenshot**  
+![Dashboard](Task-1-(Data-Analysis)/My-Task-1.png)
 
 **Files**
 
