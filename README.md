@@ -7,16 +7,17 @@ This repo documents my work for the **Deloitte Data Analytics Virtual Internship
 
 ## 🧭 Contents
 
--   Task 1 — Data Analysis (Telemetry)
-    
--   Task 2 — Forensic Technology (Pay Equity)
-    
--   Key Takeaways
-    
--   How to Reproduce
-    
--   Notes & Reflections
-    
+
+- [Task 1 — Data Analysis (Telemetry)](#task-1--data-analysis-telemetry)
+  
+- [Task 2 — Forensic Technology (Pay Equity)](#task-2--forensic-technology-pay-equity)
+
+- [Key Takeaways](#key-takeaways)
+  
+- [How to Reproduce](#how-to-reproduce)
+  
+- [Notes & Reflections](#notes--reflections)
+
 
 ----------
 
