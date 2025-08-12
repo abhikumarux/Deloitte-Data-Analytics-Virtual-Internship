@@ -51,16 +51,7 @@ Transform raw telemetry into clear insights using Tableau, highlighting the fact
 
 -   Identified **Seiko** as the highest-downtime factory.
     
--   Isolated one device type as the main cause of downtime.
-    
-
-**Screenshot**  
-![Dashboard](Task-1-(Data-Analysis)/My-Task-1.png)
-
-**Files**
-
--   `task-01-data-analysis/Daikibo-Downtime.twbx`
-    
+-   Isolated one device type as the main cause of downtime.    
 
 ----------
 
@@ -100,14 +91,6 @@ Group roles into Fair, Unfair, or Highly Discriminative based on the magnitude o
 -   Each role labeled by severity of inequality.
     
 -   Clear separation between low, moderate, and severe bias.
-    
-
-**Visual**  
-
-**Files**
-
--   `task-02-forensic-technology/Equality Table (classified).xlsx`
-    
 
 ----------
 
